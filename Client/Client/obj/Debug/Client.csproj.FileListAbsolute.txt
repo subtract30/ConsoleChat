@@ -1,0 +1,6 @@
+C:\projects\ConsoleChat\Client\Client\bin\Debug\Client.exe.config
+C:\projects\ConsoleChat\Client\Client\bin\Debug\Client.exe
+C:\projects\ConsoleChat\Client\Client\bin\Debug\Client.pdb
+C:\projects\ConsoleChat\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\projects\ConsoleChat\Client\Client\obj\Debug\Client.exe
+C:\projects\ConsoleChat\Client\Client\obj\Debug\Client.pdb

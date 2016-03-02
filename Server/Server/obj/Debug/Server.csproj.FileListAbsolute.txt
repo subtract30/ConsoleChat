@@ -1,0 +1,5 @@
+C:\projects\ConsoleChat\Server\Server\bin\Debug\Server.exe.config
+C:\projects\ConsoleChat\Server\Server\bin\Debug\Server.exe
+C:\projects\ConsoleChat\Server\Server\bin\Debug\Server.pdb
+C:\projects\ConsoleChat\Server\Server\obj\Debug\Server.exe
+C:\projects\ConsoleChat\Server\Server\obj\Debug\Server.pdb
